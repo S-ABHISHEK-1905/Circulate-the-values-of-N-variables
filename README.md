@@ -31,4 +31,4 @@ def circulate():
 ![GitHub Logo](CIRCULATE.png)
 
 ## Result:
-PROGRAM FINISHED SUCCESSFULLY.
+Thus the values are circulated succefully.
